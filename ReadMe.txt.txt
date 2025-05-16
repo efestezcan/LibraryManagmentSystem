@@ -1,0 +1,4 @@
+Bu proje C++ dili kullanılarak yazılmıştır. Bu projenin senaryosu bir kütüphane yöneticisi ve öğrenci arasında geçmektedir. Buna dayalı bir kütüphane yönetim sistemidir. İçerisinde kitap listesi görüntüleme, kitap ekle, kitap çıkar, öğrenciye kitap atama, öğrencinin kitabı iade etmesi ve çıkış metotlarından oluşmaktadır. Bu metotlarda kitaplar kaydedilir ve sonraki tekrar çalıştırmalarda ve girişlerde bu kayıtlı verilere tekrardan ulaşılabilmektedir.
+
+
+This project is written using C++ language. The scenario of this project is between a library manager and a student. It is a library management system based on this. It consists of displaying the book list, adding a book, removing a book, assigning a book to a student, returning the book to the student and exit methods. In these methods, books are saved and this saved data can be accessed again in subsequent restarts and logins.
